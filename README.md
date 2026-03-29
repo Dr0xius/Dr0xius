@@ -4,7 +4,7 @@
 
 Hello! My name is Jibrian, and I have a deep interest in frontend development and creating engaging digital experiences. Combining a keen eye for detail with a drive for clean, scalable code, I specialize in developing seamless web apps and user-friendly interfaces. I love turning ideas into reality through a mix of creative thinking and technical expertise. From building responsive websites to optimizing web performance, I am committed to providing top-tier solutions. Take a look at my GitHub to see my work, and please get in touch for collaborations. Let’s work together to create something impactful!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-doe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibrian-goodwin/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jonathandoe.com/)
 
 
